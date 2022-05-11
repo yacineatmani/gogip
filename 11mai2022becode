@@ -1,0 +1,29 @@
+À l'improviste, un client sauvage apparaît, il travaille pour le COGIP et vient avec une demande de déploiement de site Web. Bien que vous puissiez sentir un frisson froid parcourir tout le long de votre colonne vertébrale, vous savez que vous ne pouvez pas refuser le défi, mais quel genre d'horreurs vous attend pendant la tâche ?
+
+Eh bien, malheureusement, le client n'est pas en mesure de vous dire grand-chose à part quelques mots étranges dont il se souvient que le dernier ingénieur informatique COGIP a crié avant de sauter par la fenêtre du 7e étage du bureau : PHP, serveurs Web, htaccess, bases de données et SQL. Suivez les instructions ci-dessous et essayez de donner un sens à tout ce gâchis.
+
+Suivez les instructions ci-dessous pour commencer :
+
+    Connectez-vous au serveur (fourni par le client) et effectuez une configuration initiale.
+    Téléchargez et désarchivez ce fichier tar, il contient toutes les ressources du site à déployer.
+    Essayez d'identifier ce qui est nécessaire pour que le site Web fonctionne dans un environnement de production (votre serveur).
+    Déployez réellement le site Web sur le serveur.
+    Sécurisez le serveur autant que possible avec des éléments tels que des pare-feu et un proxy inverse.
+
+Ce défi est particulier dans la mesure où vous recevez un site Web potentiellement bogué, non sécurisé et non documenté à déployer. Un mot d'avertissement cependant, ne soyez pas trop effrayé à la vue d'un logiciel que vous ne connaissez pas. Prenez le temps de rechercher de nouveaux concepts ou technologies et essayez lentement d'assembler les pièces du puzzle.
+
+    REMARQUE : selon la configuration de la base de données, vous devrez peut-être modifier les valeurs du script PHP de connexion (./databases/connection.php) dans la base de code.
+
+Ressources complémentaires
+
+    Qu'est-ce qu'une base de données ?
+    Tutoriel SQL
+    Fichiers Htaccess
+
+Derniers mots
+
+Lorsqu'il s'agit de déployer des logiciels non documentés, vous devez vraiment canaliser votre détective intérieur et même si vous ne connaissez peut-être pas la langue dans laquelle le service a été écrit, vous devez toujours être en mesure d'extraire suffisamment d'informations pour savoir ce qui le ferait fonctionner. .
+
+GIF du briefing
+
+
